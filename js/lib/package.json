@@ -8,15 +8,12 @@
     "url": "git+https://github.com/RafaelSalguero/DateVersion.git"
   },
   "keywords": [
-    "require",
-    "autoreq",
-    "meta",
-    "requirejs"
+    "date",
+    "version",
+    "timestamp",
+    "file"
   ],
   "author": "Rafael Salguero Iturrios <rafaelsalgueroiturrios@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/RafaelSalguero/AutoRequire/issues"
-  },
-  "homepage": "https://github.com/RafaelSalguero/AutoRequire#readme"
+  "homepage": "https://github.com/RafaelSalguero/DateVersion#readme"
 }
