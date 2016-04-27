@@ -1,0 +1,22 @@
+{
+  "name": "dateversion",
+  "version": "1.0.0",
+  "description": "generate a single .js that sets a global variable with the current date and time. Usefull for versioning web applications",
+  "main": "lib\\dateversion.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelSalguero/DateVersion.git"
+  },
+  "keywords": [
+    "require",
+    "autoreq",
+    "meta",
+    "requirejs"
+  ],
+  "author": "Rafael Salguero Iturrios <rafaelsalgueroiturrios@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelSalguero/AutoRequire/issues"
+  },
+  "homepage": "https://github.com/RafaelSalguero/AutoRequire#readme"
+}
