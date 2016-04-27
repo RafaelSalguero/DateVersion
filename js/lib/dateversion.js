@@ -36,7 +36,6 @@ else {
         "\n//fileName   : " + fileName +
         "\n//variable   : " + variable;
     var vars = variable.split(".");
-    console.log(vars.length);
     var fullName = "";
     for (var i = 0; i < vars.length; i++) {
         var n = vars[i];
@@ -53,7 +52,6 @@ else {
             }
         }
         else if (i == (vars.length - 1)) {
-            console.log(version);
             data += fullName + " = '" + version + "'";
         }
         else {
