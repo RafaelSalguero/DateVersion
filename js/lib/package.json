@@ -1,6 +1,6 @@
 {
   "name": "dateversion",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "generate a single .js that sets a global variable with the current date and time. Usefull for versioning web applications",
   "main": "lib\\dateversion.js",
   "repository": {
